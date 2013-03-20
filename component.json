@@ -1,0 +1,16 @@
+
+{
+    "name": "jquery-color",
+    "repo": "richthegeek/jquery-color",
+    "description": "Adds color animations to jquery",
+    "version": "2.1.1",
+    "keywords": ["jquery", "color", "animation"],
+    "dependencies": {
+        "component/jquery": "*"
+    },
+    "license": "GPLv2",
+    "main": "jquery.color.js",
+    "scripts": [
+        "jquery.color.js"
+    ]
+}
